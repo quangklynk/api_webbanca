@@ -3,3 +3,4 @@ const asyncMiddleware = (fn) => (req, res, next) => {
 };
 
 exports.asyncMiddleware = asyncMiddleware;
+
